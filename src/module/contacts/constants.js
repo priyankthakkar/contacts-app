@@ -1,0 +1,3 @@
+export const LOAD = "CONTACTS_LOAD";
+export const LOAD_SUCCESS = "CONTACTS_LOAD_SUCCESS";
+export const LOAD_ERROR = "CONTACTS_LOAD_ERROR";
